@@ -1,7 +1,5 @@
-# Oh-my-ZSH
+# Guia de Instalação do ZSH e Configuração do Oh My ZSH
 Instalação do ZSH e Configuração do Oh My ZSH
-
-Guia de Instalação do ZSH e Configuração do Oh My ZSH
 
 O Z Shell (ZSH) é um shell poderoso que pode melhorar sua experiência de terminal com recursos avançados, como sugestões automáticas, destaque de sintaxe e muito mais. Oh My ZSH é um framework para gerenciar sua configuração ZSH, trazendo ainda mais funcionalidades através de temas e plugins. Este guia abordará a instalação do ZSH, Oh My ZSH e a configuração de alguns plugins úteis.
 Instalação do ZSH
